@@ -55,7 +55,7 @@ const hospitalData = {
     { id: '000002012407HF19', hospital: 'HGSMF 19 Huixtla', paciente: 'TERESA DE JESUS MORALES ZUNUN', especialidad: 'CIRUGÍA GENERAL', diagnostico: 'Tumor benigno lipomatoso', rezago: 241, delegacion: 'CHIAPAS' },
     { id: '000001712407HF19', hospital: 'HGSMF 19 Huixtla', paciente: 'DULCE OLIVIA SALGADO BETANZOS', especialidad: 'CIRUGÍA GENERAL', diagnostico: 'Hernia umbilical', rezago: 241, delegacion: 'CHIAPAS' },
     { id: '000007112507HF19', hospital: 'HGSMF 19 Huixtla', paciente: 'KAROL YOLEY HERRERA DIAZ', especialidad: 'OBSTETRICIA', diagnostico: 'Supervisión de embarazo', rezago: 54, delegacion: 'CHIAPAS' },
-    { id: '000010712507HF19', hospital: 'HGSMF 19 Huixtla', paciente: 'FLOR SELENY MORALES AGUILAR', especialidad: 'OBSTETRICIA', diagnostico: 'Presentación de nalgas', rezago: 38, delegacion: 'CHIAPAS' },
+    { id: '000010712507HF19', hospital: 'HGSMF 19 Huixtla', paciente: 'FLOR SELENY MORALES AGUILAR', especialidad: 'OBSTETRICIA', diagnostico: 'Atención materna', rezago: 38, delegacion: 'CHIAPAS' },
     { id: '000010812507HF19', hospital: 'HGZ 50 San Luis Potosí', paciente: 'CARLOS ENRIQUE RUIZ', especialidad: 'GINECOLOGÍA', diagnostico: 'Miomatosis uterina', rezago: 120, delegacion: 'SAN LUIS POTOSÍ' },
     { id: '000010912507HF19', hospital: 'HGZ 1 Aguascalientes', paciente: 'ANA SOFIA LÓPEZ MARTÍNEZ', especialidad: 'CIRUGÍA GENERAL', diagnostico: 'Apendicitis aguda', rezago: 90, delegacion: 'AGUASCALIENTES' },
     { id: '000011012507HF19', hospital: 'HGSZ 30 Ciudad de México', paciente: 'MARIO ALBERTO VAZQUEZ', especialidad: 'MEDICINA INTERNA', diagnostico: 'Colecistitis crónica', rezago: 180, delegacion: 'CIUDAD DE MÉXICO' },
